@@ -170,8 +170,7 @@ Uso de bases de datos relacionales
 👨‍💻 Autor
 
 Proyecto desarrollado por:
-Grecia Sanchez
 
-[Tu Nombre]
+Grecia Sanchez
 
 Como parte del programa Oracle Next Education + Alura Latam.
